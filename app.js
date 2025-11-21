@@ -4,7 +4,7 @@
 // Ejemplos:
 // const API_BASE_URL = "http://localhost:3020";
 // const API_BASE_URL = "https://so.jquiroz.net";
-const API_BASE_URL = "http://jquiroz.net:3020";  // AJUSTAR EN TU SERVIDOR
+const API_BASE_URL = "http://jquiroz.net:3022";  // AJUSTAR EN TU SERVIDOR
 
 function buildApiUrl(path) {
     if (API_BASE_URL.endsWith("/")) {
